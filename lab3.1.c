@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include<math.h>
- int f(int res)
+ int f(int res) //
 {   
 	for (int i=0; i<=10; i++)
 	for (int j=0; j<=10-i; j++)
